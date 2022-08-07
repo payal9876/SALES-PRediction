@@ -6,4 +6,3 @@ Pyyaml
 six
 sklearn
 jsonify
-Pickle
