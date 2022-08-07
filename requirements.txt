@@ -1,2 +1,9 @@
 Flask
 gunicorn
+pandas
+-e .
+Pyyaml
+six
+sklearn
+jsonify
+pickle
